@@ -16,7 +16,7 @@
 
 [linkedin]: https://linkedin.com/in/fariha-islam-ohana-270791292
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
